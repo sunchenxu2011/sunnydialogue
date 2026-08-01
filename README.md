@@ -48,9 +48,9 @@
 
 ### 2. 快速部署项目
 
-下载本项目的[压缩文件](https://github.com/sunchenxu2011/sunnydialogue/archive/refs/heads/main.zip)
-登录你的Cloudflare账号，找到Workers and Pages选项，创建一个新的Pages项目
-给你的项目取上一个个性化的名字，然后上传刚刚下载的压缩文件，点击部署，搞定！
+- 下载本项目的[压缩文件](https://github.com/sunchenxu2011/sunnydialogue/archive/refs/heads/main.zip)。
+- 登录你的Cloudflare账号，找到Workers and Pages选项，创建一个新的Pages项目
+- 给你的项目取上一个个性化的名字，然后上传刚刚下载的压缩文件，点击部署，搞定！
 
 ### 3.配置环境变量与绑定
 
