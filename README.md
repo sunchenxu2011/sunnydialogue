@@ -2,7 +2,7 @@
 
 > *"想探求你暗恋的那个她的一些心理想法，但又不敢直接表达？来试试该项目吧，通过构建简易、安全、私密的一次问卷，了解你心上之人的情感态度~"*  
 > 本项目是一个专为**那一抹未竟的晨光**设计的互动对话与心理探访系统，基于 **Cloudflare Workers** 与 **KV 存储** 构建，提供极致轻量的无服务器架构部署。
-> 项目演示站点：[立即前往](https://demolove1.pages.dev/)（访问密钥：sunnydialogue）
+> 项目演示站点：[立即前往](https://demolove1.pages.dev/administrator)（访问密钥：sunnydialogue）
 
 ---
 
