@@ -1095,7 +1095,7 @@ body{background:var(--bg);color:var(--text);font-family:'Inter',-apple-system,Bl
 
   <div class="footer">
     <span class="counter">${answeredCount} / ${total} 已作答</span>
-    <span style="font-size:13px;">💡 邮箱 : love@thisissunny.cc.cd </span>
+    <span style="font-size:13px;">💡 Catching the morning sun, saving all the sweetness for you. :) </span>
   </div>
 </div>
 
@@ -1158,7 +1158,7 @@ function renderChatFeedback(chat, progress) {
 <head>
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<title>🫧谢谢，晨旭</title>
+<title>🫧谢谢，祝你幸福~</title>
 <style>
 *{margin:0;padding:0;box-sizing:border-box;}
 :root{--bg:#0b0e14;--surface:#151c28;--surface2:#1f2838;--border:#2a3448;--text:#e8ecf4;--text2:#9aa8be;--primary:#6c8cff;--primary-hover:#5a7ae8;--success:#4cd9a0;--radius:20px;--shadow:0 12px 48px rgba(0,0,0,0.5);}
